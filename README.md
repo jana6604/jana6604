@@ -1,4 +1,4 @@
-## Hi I'm Janardhana 👋
+## Hi I'm Janardhan 👋
 
 
 Aspiring Data Scientist | Student @ GCT Coimbatore
