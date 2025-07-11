@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I'm Janardhana 👋
+
+
+Aspiring Data Scientist | Student @ GCT Coimbatore
 
 <!--
 **jana6604/jana6604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
