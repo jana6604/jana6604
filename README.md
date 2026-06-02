@@ -1,19 +1,90 @@
-## Hi I'm Janardhan 👋
+# Hi, I'm Janardhan 👋
 
+🎓 B.Tech Information Technology Graduate
 
-Aspiring Data Scientist | Student @ GCT Coimbatore
+💼 Placed at TCS ( Joining soon )
 
-<!--
-**jana6604/jana6604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Interested in Data Analytics, Data Science, and Problem Solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Programming**
+
+* Python
+* SQL
+
+**Data Analysis**
+
+* Pandas
+* NumPy
+* Excel
+
+**Data Visualization**
+
+* Power BI
+* Matplotlib
+
+**Database**
+
+* MySQL
+
+**Tools**
+
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
+
+---
+
+## Experience
+
+### Data Science Intern
+
+**Elythra Edufyi Tech Solutions**
+
+* Performed exploratory data analysis on real-world datasets
+* Built machine learning models for data-driven insights
+* Created dashboards and visualizations using Power BI and Matplotlib
+* Automated reporting workflows to improve efficiency
+
+---
+
+## Featured Projects
+
+### Unified Threat Management System for Home Networks
+
+Capstone project focused on monitoring network traffic and identifying potential security threats.
+
+### Smart Resume Classifier
+
+Machine learning project that classifies resumes into different job categories.
+
+### Healthcare Dashboard
+
+Interactive Power BI dashboard for analyzing patient and hospital data.
+
+### Sales Prediction using Machine Learning
+
+Regression-based project for predicting sales trends using historical data.
+
+---
+
+## Current Goals
+
+* Strengthen Data Analysis skills
+* Build more end-to-end Python projects
+* Learn advanced SQL concepts
+* Grow expertise in Data Science
+
+---
+
+## Connect With Me
+
+📧 [janadjrt6604@gmail.com](mailto:janadjrt6604@gmail.com)
+
+🔗 LinkedIn: linkedin.com/in/janardhan-
+
+💻 GitHub: github.com/jana6604
